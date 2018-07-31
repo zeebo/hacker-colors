@@ -3,6 +3,7 @@
     "displayName": "Hacker Colors",
     "description": "Feel like you're in the 80s",
     "version": "1.0.0",
+    "repository": "https://github.com/zeebo/hacker-colors",
     "publisher": "zeebo",
     "engines": {
         "vscode": "^1.19.0"
