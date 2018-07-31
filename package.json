@@ -1,0 +1,22 @@
+{
+    "name": "hacker-colors",
+    "displayName": "Hacker Colors",
+    "description": "Feel like you're in the 80s",
+    "version": "1.0.0",
+    "publisher": "zeebo",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hacker Colors",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hacker-colors-color-theme.json"
+            }
+        ]
+    }
+}
